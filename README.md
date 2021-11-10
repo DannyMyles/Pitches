@@ -77,7 +77,7 @@ After extracting the files,
 ## Technologies Used
 * Python3.8
 * Flask
-* Bootstrap4
+* Bootstrap5
 * Css3
 * Html5
 
