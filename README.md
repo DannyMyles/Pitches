@@ -5,7 +5,7 @@
 ## Description
 An application that allows users to use that one minute wisely. The users will submit their one minute pitches and other users will vote on them and leave comments to give their feedback on them.
 
-You can view the site at:
+You can view the site at:https://the-pitch1.herokuapp.com/
 
 
 ## User Stories
@@ -29,7 +29,7 @@ You can view the site at:
 | To add a pitch  | **Click an add pitch** | Redirected to the pitch collection form|
 
 ## Application link
-
+https://the-pitch1.herokuapp.com/
 
 ## SetUp / Installation Requirements
 Run 
