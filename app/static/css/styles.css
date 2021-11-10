@@ -2,7 +2,7 @@ body{
     background-image: url(../siteimages/time.jpg);
     background-attachment: fixed;
     background-size: cover;
-    color: white;
+    color: rgb(255, 255, 255);
 }
 .panel{
     color:black;
